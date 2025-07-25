@@ -1,0 +1,22 @@
+======================================
+          RECIBO DE PAGO - PAYPRO     
+======================================
+
+Fecha: 2025-06-04 10:18:27
+Transacción ID: TXN-20250604101827633706
+Remitente: anthony jordy vidal fuentes
+
+Monto: $0.10 USD
+Método de Pago: PayPal
+  Cuenta PayPal: jordyvi@.om
+
+--- Información del Destinatario ---
+Nombre: yimy
+Contacto: 999999999
+Concepto: transferenciua
+
+Código de Autorización: PP20250604101827
+
+======================================
+        ¡Gracias por usar PAYPRO!     
+======================================
